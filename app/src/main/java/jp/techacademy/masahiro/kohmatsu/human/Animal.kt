@@ -1,5 +1,6 @@
 package jp.techacademy.masahiro.kohmatsu.human
 
+//基底クラス
 abstract class Animal{
     //プロパティ
     var name: String
